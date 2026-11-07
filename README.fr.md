@@ -109,6 +109,7 @@ Marre du même logo ? Changez-le selon l'humeur : du bleu Guanlan éclatant au n
 | `quadCut-portable.zip` (complète) | env. 68 MB | Idem, à décompresser et lancer |
 | `quadCut-lite.zip` (allégée) | env. 7,6 MB | Windows 10 et supérieur (runtime .NET 6+ requis) |
 
+Téléchargement direct : [version complète quadCut.exe](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut.exe) · [version portable zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-portable.zip) · [version allégée zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-lite.zip)
 Si Windows affiche « Windows a protégé votre PC » au premier lancement, cliquez sur « Informations complémentaires → Exécuter quand même ».
 
 ---

@@ -109,6 +109,7 @@ AI 圖查參數不必開啟 AI 軟體：ComfyUI、A1111 / SD.Next 寫進 PNG 的
 | `quadCut-portable.zip`（完整版） | 約 68 MB | 同上，解壓即用 |
 | `quadCut-lite.zip`（精簡版） | 約 7.6 MB | Windows 10 以上（需已裝 .NET 6+ 桌面執行階段） |
 
+直接下載：[完整版 quadCut.exe](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut.exe) · [可攜版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-portable.zip) · [精簡版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-lite.zip)
 第一次開啟如果 Windows 提示「已保護你的電腦」，點「更多資訊 → 仍要執行」即可。
 
 ---

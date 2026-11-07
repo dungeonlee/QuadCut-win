@@ -109,6 +109,7 @@ AI 이미지의 파라미터를 보려고 AI 프로그램을 켤 필요가 없�
 | `quadCut-portable.zip` (전체 버전) | 약 68 MB | 동일, 압축을 풀면 바로 실행 |
 | `quadCut-lite.zip` (라이트 버전) | 약 7.6 MB | Windows 10 이상 (.NET 6+ 데스크톱 런타임 필요) |
 
+바로 다운로드: [전체 버전 quadCut.exe](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut.exe) · [포터블 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-portable.zip) · [라이트 버전 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-lite.zip)
 처음 실행할 때 Windows가 "Windows의 PC 보호"를 표시하면 "추가 정보 → 실행"을 선택하세요.
 
 ---

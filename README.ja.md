@@ -109,6 +109,7 @@ AI 画像のパラメーターを見るのに AI ソフトを起動する必要�
 | `quadCut-portable.zip`（フル版） | 約 68 MB | 同上、解凍してすぐ使える |
 | `quadCut-lite.zip`（ライト版） | 約 7.6 MB | Windows 10 以降（.NET 6+ デスクトップランタイムが必要） |
 
+直接ダウンロード：[フル版 quadCut.exe](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut.exe) · [ポータブル zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-portable.zip) · [ライト版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-lite.zip)
 初回起動時に「Windows によって PC が保護されました」と表示されたら、「詳細情報」→「実行」を選んでください。
 
 ---
