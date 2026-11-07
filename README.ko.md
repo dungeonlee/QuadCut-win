@@ -14,7 +14,7 @@
 
 <p align="center"><img src="docs/gold-qdir-ko.svg" width="342" height="51" alt="Q-Dir에게 바치는 경의" /></p>
 
-<h1 align="center">QuadCut</h1>
+<h1 align="center"><img src="docs/title-ko.svg" width="217" height="64" alt="QuadCut" /></h1>
 
 <p align="center"><strong>4분할 파일 관리자 · Windows 1.8.3</strong></p>
 

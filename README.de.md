@@ -14,7 +14,7 @@
 
 <p align="center"><img src="docs/gold-qdir-de.svg" width="437" height="51" alt="In Anerkennung von Q-Dir" /></p>
 
-<h1 align="center">QuadCut</h1>
+<h1 align="center"><img src="docs/title-de.svg" width="217" height="64" alt="QuadCut" /></h1>
 
 <p align="center"><strong>Dateimanager mit vier Bereichen · Windows 1.8.3</strong></p>
 

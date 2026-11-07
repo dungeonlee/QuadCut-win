@@ -14,7 +14,7 @@
 
 <p align="center"><img src="docs/gold-qdir-en.svg" width="351" height="51" alt="In tribute to Q-Dir" /></p>
 
-<h1 align="center">QuadCut</h1>
+<h1 align="center"><img src="docs/title-en.svg" width="217" height="64" alt="QuadCut" /></h1>
 
 <p align="center"><strong>Quad-pane file manager · Windows 1.8.3</strong></p>
 

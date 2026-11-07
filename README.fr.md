@@ -14,7 +14,7 @@
 
 <p align="center"><img src="docs/gold-qdir-fr.svg" width="289" height="51" alt="Hommage à Q-Dir" /></p>
 
-<h1 align="center">QuadCut</h1>
+<h1 align="center"><img src="docs/title-fr.svg" width="217" height="64" alt="QuadCut" /></h1>
 
 <p align="center"><strong>Gestionnaire de fichiers à quatre volets · Windows 1.8.3</strong></p>
 

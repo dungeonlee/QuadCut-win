@@ -14,7 +14,7 @@
 
 <p align="center"><img src="docs/gold-qdir-ja.svg" width="332" height="51" alt="Q-Dir に敬意を表して" /></p>
 
-<h1 align="center">QuadCut</h1>
+<h1 align="center"><img src="docs/title-ja.svg" width="217" height="64" alt="QuadCut" /></h1>
 
 <p align="center"><strong>4分割ファイルマネージャー · Windows 版 1.8.3</strong></p>
 

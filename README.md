@@ -14,7 +14,7 @@
 
 <p align="center"><img src="docs/gold-qdir-zh.svg" width="196" height="51" alt="致敬 Q-Dir" /></p>
 
-<h1 align="center">QuadCut 快卡</h1>
+<h1 align="center"><img src="docs/title-zh.svg" width="304" height="64" alt="QuadCut 快卡" /></h1>
 
 <p align="center"><strong>四宫格文件管理器 · Windows 版 1.8.3</strong></p>
 

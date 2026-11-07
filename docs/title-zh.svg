@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="64" viewBox="0 0 304 64" role="img" aria-label="QuadCut 快卡">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F7E7A8"/>
+      <stop offset="0.40" stop-color="#DFC05A"/>
+      <stop offset="0.64" stop-color="#C0982B"/>
+      <stop offset="1" stop-color="#8F6C1E"/>
+    </linearGradient>
+  </defs>
+  <text x="152" y="45" text-anchor="middle"
+        font-family="'Microsoft YaHei','PingFang SC','Hiragino Sans GB','Noto Sans SC','Source Han Sans SC','Yu Gothic UI','Meiryo','Malgun Gothic','Segoe UI',sans-serif"
+        font-size="36" font-weight="700" letter-spacing="1.5"
+        fill="url(#gold)">QuadCut 快卡</text>
+</svg>
