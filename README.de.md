@@ -12,7 +12,7 @@
   <img src="docs/docs-hero.png" width="176" alt="QuadCut" />
 </p>
 
-<p align="center"><strong style="color:#D4AF37; font-size:22px; letter-spacing:2px;">In Anerkennung von Q-Dir</strong></p>
+<p align="center"><img src="docs/gold-qdir-de.svg" width="437" height="51" alt="In Anerkennung von Q-Dir" /></p>
 
 <h1 align="center">QuadCut</h1>
 

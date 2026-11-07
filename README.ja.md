@@ -12,7 +12,7 @@
   <img src="docs/docs-hero.png" width="176" alt="QuadCut" />
 </p>
 
-<p align="center"><strong style="color:#D4AF37; font-size:22px; letter-spacing:2px;">Q-Dir に敬意を表して</strong></p>
+<p align="center"><img src="docs/gold-qdir-ja.svg" width="332" height="51" alt="Q-Dir に敬意を表して" /></p>
 
 <h1 align="center">QuadCut</h1>
 

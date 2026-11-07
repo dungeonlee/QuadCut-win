@@ -12,7 +12,7 @@
   <img src="docs/docs-hero.png" width="176" alt="QuadCut 快卡" />
 </p>
 
-<p align="center"><strong style="color:#D4AF37; font-size:22px; letter-spacing:2px;">致敬 Q-Dir</strong></p>
+<p align="center"><img src="docs/gold-qdir-zh.svg" width="196" height="51" alt="致敬 Q-Dir" /></p>
 
 <h1 align="center">QuadCut 快卡</h1>
 

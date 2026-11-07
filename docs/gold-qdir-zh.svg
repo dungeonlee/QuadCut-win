@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="196" height="51" viewBox="0 0 196 51" role="img" aria-label="致敬 Q-Dir">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F8EDBC"/>
+      <stop offset="0.42" stop-color="#E3C765"/>
+      <stop offset="0.62" stop-color="#C9A033"/>
+      <stop offset="1" stop-color="#9C7A24"/>
+    </linearGradient>
+  </defs>
+  <text x="98" y="34" text-anchor="middle"
+        font-family="'Microsoft YaHei','PingFang SC','Hiragino Sans GB','Noto Sans SC','Source Han Sans SC','Yu Gothic UI','Meiryo','Malgun Gothic','Segoe UI',sans-serif"
+        font-size="25" font-weight="700" letter-spacing="2.2"
+        fill="url(#gold)">致敬 Q-Dir</text>
+</svg>
