@@ -16,7 +16,7 @@
 
 <h1 align="center"><img src="docs/title-ko.svg" width="217" height="64" alt="QuadCut" /></h1>
 
-<p align="center"><strong>4분할 파일 관리자 · Windows 1.8.3</strong></p>
+<p align="center"><strong>4분할 파일 관리자 · Windows 1.8.4</strong></p>
 
 Windows 탐색기로 사진을 정리해 본 사람이라면 그 왕복을 압니다. 한 창에서 복사하고 다른 창에서 붙여넣고, 몇 분 지나면 어느 쪽이 어느 쪽인지 헷갈립니다. 연사로 찍은 수십 장 중 초점이 맞은 한 장을 고르려면 한 장씩 더블클릭해 확대하고 다시 닫아야 하죠.
 
@@ -101,15 +101,15 @@ AI 이미지의 파라미터를 보려고 AI 프로그램을 켤 필요가 없�
 
 ---
 
-## 다운로드 (1.8.3)
+## 다운로드 (1.8.4)
 
 | 빌드 | 크기 | 권장 시스템 |
 | --- | --- | --- |
-| `quadCut.exe` (전체 버전) | 약 70 MB | Windows 7 이상, 런타임 설치 불필요 |
-| `quadCut-portable.zip` (전체 버전) | 약 68 MB | 동일, 압축을 풀면 바로 실행 |
-| `quadCut-lite.zip` (라이트 버전) | 약 7.6 MB | Windows 10 이상 (.NET 6+ 데스크톱 런타임 필요) |
+| `QuadCut-1.8.4-win-x64.exe` (전체 버전) | 약 70 MB | Windows 10 2004 (19041) 이상 (64비트), 런타임 설치 불필요 |
+| `QuadCut-1.8.4-win-x64-portable.zip` (전체 버전) | 약 68 MB | 동일, 압축을 풀면 바로 실행 |
+| `QuadCut-1.8.4-win-x64-lite.zip` (라이트 버전) | 약 7.1 MB | Windows 10 2004 (19041) 이상 (64비트), .NET 6+ 데스크톱 런타임 필요 |
 
-바로 다운로드: [전체 버전 quadCut.exe](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut.exe) · [포터블 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-portable.zip) · [라이트 버전 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-lite.zip)
+바로 다운로드: [전체 버전](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64.exe) · [포터블 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64-portable.zip) · [라이트 버전 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64-lite.zip)
 처음 실행할 때 Windows가 "Windows의 PC 보호"를 표시하면 "추가 정보 → 실행"을 선택하세요.
 
 ---

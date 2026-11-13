@@ -16,7 +16,7 @@
 
 <h1 align="center"><img src="docs/title-fr.svg" width="217" height="64" alt="QuadCut" /></h1>
 
-<p align="center"><strong>Gestionnaire de fichiers à quatre volets · Windows 1.8.3</strong></p>
+<p align="center"><strong>Gestionnaire de fichiers à quatre volets · Windows 1.8.4</strong></p>
 
 Quiconque a déjà trié des photos avec l'Explorateur Windows connaît ces allers-retours : copier dans une fenêtre, coller dans une autre, et quelques minutes plus tard on ne sait plus laquelle est laquelle. Choisir la seule image nette parmi des dizaines de rafales oblige à double-cliquer sur chacune, zoomer, puis refermer.
 
@@ -101,15 +101,15 @@ Marre du même logo ? Changez-le selon l'humeur : du bleu Guanlan éclatant au n
 
 ---
 
-## Téléchargement (1.8.3)
+## Téléchargement (1.8.4)
 
 | Version | Taille | Système recommandé |
 | --- | --- | --- |
-| `quadCut.exe` (complète) | env. 70 MB | Windows 7 et supérieur, sans runtime à installer |
-| `quadCut-portable.zip` (complète) | env. 68 MB | Idem, à décompresser et lancer |
-| `quadCut-lite.zip` (allégée) | env. 7,6 MB | Windows 10 et supérieur (runtime .NET 6+ requis) |
+| `QuadCut-1.8.4-win-x64.exe` (complète) | env. 70 MB | Windows 10 2004 (19041) ou supérieur (64 bits), sans runtime à installer |
+| `QuadCut-1.8.4-win-x64-portable.zip` (complète) | env. 68 MB | Idem, à décompresser et lancer |
+| `QuadCut-1.8.4-win-x64-lite.zip` (allégée) | env. 7,1 MB | Windows 10 2004 (19041) ou supérieur (64 bits), runtime .NET 6+ requis |
 
-Téléchargement direct : [version complète quadCut.exe](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut.exe) · [version portable zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-portable.zip) · [version allégée zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-lite.zip)
+Téléchargement direct : [version complète](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64.exe) · [version portable zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64-portable.zip) · [version allégée zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64-lite.zip)
 Si Windows affiche « Windows a protégé votre PC » au premier lancement, cliquez sur « Informations complémentaires → Exécuter quand même ».
 
 ---

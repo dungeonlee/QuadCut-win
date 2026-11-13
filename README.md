@@ -16,7 +16,7 @@
 
 <h1 align="center"><img src="docs/title-zh.svg" width="304" height="64" alt="QuadCut 快卡" /></h1>
 
-<p align="center"><strong>四宫格文件管理器 · Windows 版 1.8.3</strong></p>
+<p align="center"><strong>四宫格文件管理器 · Windows 版 1.8.4</strong></p>
 
 用 Windows 资源管理器整理过照片的人都懂那种来回折腾：一个窗口复制，另一个窗口粘贴，过一会儿就分不清哪个是哪个；几十张连拍里挑一张焦点清晰的，得一张张双击放大再关掉。
 
@@ -101,15 +101,15 @@ AI 图查参数不必开启 AI 软件：ComfyUI、A1111 / SD.Next 写进 PNG 的
 
 ---
 
-## 下载（1.8.3）
+## 下载（1.8.4）
 
 | 版本 | 大小 | 推荐系统 |
 | --- | --- | --- |
-| `quadCut.exe`（全量版） | 约 70 MB | Windows 7 及以上，免装运行库 |
-| `quadCut-portable.zip`（全量版） | 约 68 MB | 同上，解压即用 |
-| `quadCut-lite.zip`（精简版） | 约 7.6 MB | Windows 10 及以上（需已装 .NET 6+ 桌面运行时） |
+| `QuadCut-1.8.4-win-x64.exe`（全量版） | 约 70 MB | Windows 10 2004 (19041) 及以上（64 位），免装运行库 |
+| `QuadCut-1.8.4-win-x64-portable.zip`（全量版） | 约 68 MB | 同上，解压即用 |
+| `QuadCut-1.8.4-win-x64-lite.zip`（精简版） | 约 7.1 MB | Windows 10 2004 (19041) 及以上（64 位），需已装 .NET 6+ 桌面运行时 |
 
-直接下载：[全量版 quadCut.exe](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut.exe) · [便携版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-portable.zip) · [精简版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-lite.zip)
+直接下载：[全量版](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64.exe) · [便携版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64-portable.zip) · [精简版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64-lite.zip)
 首次打开如果 Windows 提示「已保护你的电脑」，点「更多信息 → 仍要运行」即可。
 
 ---

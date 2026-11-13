@@ -16,7 +16,7 @@
 
 <h1 align="center"><img src="docs/title-ja.svg" width="217" height="64" alt="QuadCut" /></h1>
 
-<p align="center"><strong>4分割ファイルマネージャー · Windows 版 1.8.3</strong></p>
+<p align="center"><strong>4分割ファイルマネージャー · Windows 版 1.8.4</strong></p>
 
 Windows のエクスプローラーで写真を整理したことがある人なら、あの行ったり来たりを知っているはずです。こちらのウィンドウでコピーし、あちらで貼り付け、しばらくするとどちらがどちらだか分からなくなる。連写で撮った数十枚からピントの合った1枚を選ぶには、1枚ずつダブルクリックして拡大し、また閉じる。
 
@@ -101,15 +101,15 @@ AI 画像のパラメーターを見るのに AI ソフトを起動する必要�
 
 ---
 
-## ダウンロード（1.8.3）
+## ダウンロード（1.8.4）
 
 | ビルド | サイズ | 推奨システム |
 | --- | --- | --- |
-| `quadCut.exe`（フル版） | 約 70 MB | Windows 7 以降、ランタイム不要 |
-| `quadCut-portable.zip`（フル版） | 約 68 MB | 同上、解凍してすぐ使える |
-| `quadCut-lite.zip`（ライト版） | 約 7.6 MB | Windows 10 以降（.NET 6+ デスクトップランタイムが必要） |
+| `QuadCut-1.8.4-win-x64.exe`（フル版） | 約 70 MB | Windows 10 2004 (19041) 以降（64 ビット）、ランタイム不要 |
+| `QuadCut-1.8.4-win-x64-portable.zip`（フル版） | 約 68 MB | 同上、解凍してすぐ使える |
+| `QuadCut-1.8.4-win-x64-lite.zip`（ライト版） | 約 7.1 MB | Windows 10 2004 (19041) 以降（64 ビット）、.NET 6+ デスクトップランタイムが必要 |
 
-直接ダウンロード：[フル版 quadCut.exe](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut.exe) · [ポータブル zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-portable.zip) · [ライト版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/quadCut-lite.zip)
+直接ダウンロード：[フル版](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64.exe) · [ポータブル zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64-portable.zip) · [ライト版 zip](https://github.com/dungeonlee/QuadCut-win/releases/latest/download/QuadCut-1.8.4-win-x64-lite.zip)
 初回起動時に「Windows によって PC が保護されました」と表示されたら、「詳細情報」→「実行」を選んでください。
 
 ---
