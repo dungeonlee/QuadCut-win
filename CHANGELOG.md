@@ -6,6 +6,22 @@ Each release lists the same items twice — Chinese first, then English. The two
 
 ---
 
+## 1.8.4.1 · 2026-11-15
+
+**中文**
+
+- 修好格子里的自定义文件夹图标不显示：详细列表、小图标视图里，给文件夹换过图标（`desktop.ini` 的 `IconResource`）的现在显示那个图标，之前一律是通用黄文件夹；标签和格子共用同一套判定，F5 刷新后立刻生效
+- 修好磁贴 / 中等图标视图里长文件名被竖着切掉半行：名称区域加高，完整显示三行，再长才以省略号收尾
+- 版本号改为 1.8.4.1（关于窗口支持四段版本号）
+
+**English**
+
+- Fixed custom folder icons not showing inside panes: in Details and Small-icons view, folders with a custom icon (`IconResource` in `desktop.ini`) now show it instead of the generic yellow folder. Tabs and panes share the same check, and F5 applies a change immediately
+- Fixed long file names being cut in half vertically in Tiles and Medium-icons view: the name area is taller and shows a full three lines, ending with an ellipsis only when longer
+- Version is now 1.8.4.1 (the About window handles four-part version numbers)
+
+---
+
 ## 1.8.4 · 2026-11-13
 
 **中文**
