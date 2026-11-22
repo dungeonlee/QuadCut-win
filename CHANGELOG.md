@@ -6,6 +6,32 @@ Each release lists the same items twice — Chinese first, then English. The two
 
 ---
 
+## 1.8.5 · 2026-11-22
+
+**中文**
+
+- 进目录再退回来之后，方向键从**刚离开的那个文件夹**继续往下挪（以前会跳回第一项；删完东西再退回来时更明显）
+- 方向键挪到列表最后一项不会再把焦点甩到别的格子里
+- 删除加了进度卡片：显示当前删的是哪个文件（`文件名 (i/N)`）和百分比，可以中途取消；删完选中仍落在补位的那一项
+- 修好删空文件夹时弹「没有找到项目」并卡三秒的问题
+- 详细列表和小图标视图里，`exe` / `ico` / `msi` 这些显示**自己的**图标（以前一律是通用蓝白窗口）；大安装包首次读取较慢，之后走磁盘缓存秒出，重启程序也不用再等
+- 把文件夹拖到标签栏或地址栏，就在**拖到的那个格子**里新开一个标签打开它（标签满 6 个时不接）
+- 提示词支持「多条提示词框 + 循环按轮次取第 N 条」的工作流（`ttN text7BOX_concat` 这类，字段叫 `text1…textN`），整份提示词都能读出来；预览栏不再截成 173 字，改成固定高度内可滚动、保留换行
+- 版本号升到 1.8.5
+
+**English**
+
+- After going into a folder and back out, the arrow keys continue from **the folder you just left** instead of jumping back to the first item (this was most obvious after deleting something and going back up)
+- The arrow keys no longer throw focus into another pane when you reach the last item
+- Deletion now shows a progress card: the file being deleted (`name (i/N)`) plus a percentage, and it can be cancelled midway; afterwards the selection lands on the item that moved up
+- Fixed deleting an empty folder showing a "Item Not Found" error box and hanging for three seconds
+- In Details and Small-icons view, `exe` / `ico` / `msi` files now show **their own** icons instead of the generic blue-white window; large installers are slow the first time, then come straight from the on-disk cache, including after a restart
+- Drag a folder onto the tab strip or the address bar and it opens in a new tab **in that pane** (not accepted once six tabs are open)
+- Prompts from "multiple prompt boxes + loop that takes the Nth one" workflows (`ttN text7BOX_concat` and the like, fields `text1…textN`) are now read in full; the preview panel no longer truncates to 173 characters but scrolls inside a fixed height and keeps line breaks
+- Version bumped to 1.8.5
+
+---
+
 ## 1.8.4.1 · 2026-11-15
 
 **中文**
